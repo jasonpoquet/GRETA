@@ -1,5 +1,7 @@
+body{
+    font-family: "Quicksand Book" , sans-serif ;
+}
 #sect1{
-    margin-top:11vh;
     text-align: center;
 }
 p{
@@ -8,6 +10,15 @@ p{
 h2{
     text-align: center;
 }
-#sect2{
+#sect2 {
     text-align: center;
+}
+.con{
+    text-align: center;
+    margin: 0;
+}
+#img1{
+    margin-top: 10vh;
+    margin-left: 2vw;
+    justify-content: left;
 }
