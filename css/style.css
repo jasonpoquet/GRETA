@@ -30,3 +30,7 @@ h2{
     padding-top:60px;
     margin-top:-60px;
 }
+#contact:target{
+    padding-top: 60px;
+    margin-top: -60px;
+}
